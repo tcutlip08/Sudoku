@@ -1,4 +1,31 @@
-.cell input {
-    width: 100%;
-    height: auto;
+.r1 {
+    border-top: solid black 5px;
+}
+
+.r3, .r6 {
+    border-bottom: solid black 2.5px;
+}
+
+.r4, .r7 {
+    border-top: solid black 2.5px;
+}
+
+.r9 {
+    border-bottom: solid black 5px;
+}
+
+.c1 {
+    border-left: solid black 5px;
+}
+
+.c3, .c6 {
+    border-right: solid black 2.5px;
+}
+
+.c4, .c7 {
+    border-left: solid black 2.5px;
+}
+
+.c9 {
+    border-right: solid black 5px;
 }

@@ -1,5 +1,14 @@
+.Landing {
+    width: 100%;
+}
+
+.row {
+    width: 100%;
+    justify-content: center;
+}
+
 .cell {
     border: solid black 1px;
-    margin: 2px;
-    /* height: 20px; */
+    height: 50px;
+    width: 50px;
 }
